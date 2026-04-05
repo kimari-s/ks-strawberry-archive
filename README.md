@@ -37,3 +37,7 @@ info.htm         Copyright / access keys
 - This is an archive for reference, not intended for reuse
 - API keys and site-specific values are replaced with `REDACTED`
 - Source encoding is Shift_JIS (cp932)
+
+## Related
+
+- [nss](https://github.com/lamutara/nss) — PHP + MySQL rewrite (successor)
