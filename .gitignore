@@ -1,0 +1,24 @@
+# Local / runtime (do not commit)
+*.log
+bbs.cnt
+tl.cache
+twitrep.txt
+**/channel.cache
+**/sourcelog*.txt
+upload.lock
+access_log_*
+log/
+log_old/
+count/
+up/count/
+s2/
+up/s/
+upload/source/
+
+# IDE
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
