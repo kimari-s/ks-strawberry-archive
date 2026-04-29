@@ -40,4 +40,4 @@ info.htm         Copyright / access keys
 
 ## Related
 
-- [nss](https://github.com/lamutara/nss) — PHP + MySQL rewrite (successor)
+- [nss](https://github.com/kimari-s/nss) — PHP + MySQL rewrite (successor)
